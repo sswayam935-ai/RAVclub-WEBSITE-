@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "clubName": "Robotics & AV Club",
+    "tagline": "Where technology meets creativity!",
+    "established": "2022",
+    "splineScene": "https://prod.spline.design/kZDDjO5HuC9GJUM2/scene.splinecode"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "The Robotics & AV Club is dedicated to building cutting-edge robots for competitions, creating energy-efficient designs, developing smart automation solutions, and promoting sustainability through technology.",
+    "activities": [
+      "Hackathons & Techfests",
+      "Maker Fests",
+      "Industry Collaborations",
+      "Hands-on Workshops"
+    ],
+    "mission": "Building smarter, greener solutions for tomorrow"
+  },
+  "founders": [
+    {
+      "id": 1,
+      "name": "Aadil Khatri",
+      "role": "Co-Founder",
+      "year": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Giriraj Shah",
+      "role": "Co-Founder",
+      "year": "2022"
+    }
+  ],
+  "coordinator": {
+    "name": "Dr. Akash Pandey",
+    "role": "Teacher Coordinator"
+  },
+  "vision": {
+    "title": "Vision",
+    "content": "Centre of excellence in Mechanical Engineering Education, Research and Innovations for Sustainable Development"
+  },
+  "missionPoints": [
+    "Build ecosystem for academic excellence and innovative research",
+    "Foster collaborations with institutes and industries",
+    "Contribute towards holistic and sustainable development"
+  ]
+}

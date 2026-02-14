@@ -1,0 +1,97 @@
+{
+  "pageTitle": "Our Projects",
+  "pageDescription": "Innovative robots designed, built, and programmed in-house",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Meshmerise Bot",
+      "category": "Autonomous Navigation",
+      "description": "Championship-winning autonomous robot with advanced pathfinding algorithms and sensor fusion. Qualified for International Finals.",
+      "techStack": ["Arduino", "Ultrasonic Sensors", "IMU", "Custom PCB", "C++"],
+      "status": "Champion",
+      "year": "2025",
+      "competition": "IIT Bombay Technorion",
+      "achievement": "1st Place + International Finals",
+      "features": [
+        "Advanced autonomous navigation",
+        "Custom designed PCB",
+        "Energy-efficient motor control",
+        "Real-time obstacle avoidance"
+      ],
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb"
+    },
+    {
+      "id": 2,
+      "title": "Cozmoclench Bot",
+      "category": "Wireless Manual Control",
+      "description": "Top-performing wireless controlled robot with precision movement and robust communication systems.",
+      "techStack": ["ESP32", "Custom Chassis", "Motor Drivers", "Wireless Control"],
+      "status": "Active",
+      "year": "2025",
+      "competition": "IIT Bombay Technorion",
+      "achievement": "Top Performer - Wireless Category",
+      "features": [
+        "Reliable wireless communication",
+        "Custom mechanical design",
+        "High torque drive system",
+        "Low latency control"
+      ],
+      "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789"
+    },
+    {
+      "id": 3,
+      "title": "Search and Destroy",
+      "category": "Autonomous Combat",
+      "description": "Autonomous bot with targeting and navigation capabilities. Finalist at COEP Mindspark 2025.",
+      "techStack": ["Raspberry Pi", "Computer Vision", "Custom PCB", "Python"],
+      "status": "Active",
+      "year": "2025",
+      "competition": "COEP Mindspark",
+      "achievement": "Top 4 Finalist",
+      "features": [
+        "Autonomous target detection",
+        "Computer vision integration",
+        "Strategic path planning",
+        "Custom control algorithms"
+      ],
+      "image": "https://images.unsplash.com/photo-1518314916381-77a37c2a49ae"
+    },
+    {
+      "id": 4,
+      "title": "RoboRoyal",
+      "category": "Pick and Place Automation",
+      "description": "Precision manipulation robot with advanced pick-and-place mechanisms. Recognized with honorable mention.",
+      "techStack": ["Servo Motors", "Gripper Mechanism", "Arduino Mega", "Custom Chassis"],
+      "status": "Active",
+      "year": "2025",
+      "competition": "COEP Mindspark",
+      "achievement": "Honorable Mention",
+      "features": [
+        "Precision gripper control",
+        "Accurate positioning system",
+        "Efficient task completion",
+        "Robust mechanical design"
+      ],
+      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008"
+    },
+    {
+      "id": 5,
+      "title": "FTC Regional Robot",
+      "category": "FIRST Tech Challenge",
+      "description": "Competition robot built for FTC Regional Championship with outstanding performance in Mumbai.",
+      "techStack": ["FTC Control Hub", "Rev Robotics", "Java", "Android Studio"],
+      "status": "Active",
+      "year": "2026",
+      "competition": "FTC Regional Championship Mumbai",
+      "achievement": "Outstanding Performance",
+      "features": [
+        "FTC standard compliance",
+        "Autonomous and TeleOp modes",
+        "Team collaboration",
+        "Strategic gameplay"
+      ],
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb"
+    }
+  ],
+  "categories": ["Autonomous Navigation", "Wireless Manual Control", "Autonomous Combat", "Pick and Place Automation", "FIRST Tech Challenge"]
+}

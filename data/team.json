@@ -1,0 +1,75 @@
+{
+  "pageTitle": "Our Team",
+  "pageDescription": "Meet the talented individuals driving innovation at Robotics & AV Club",
+  "leadership": [
+    {
+      "id": 1,
+      "name": "Dr. Akash Pandey",
+      "role": "Teacher Coordinator",
+      "department": "Faculty",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "bio": "Guiding the club towards excellence in robotics and automation",
+      "email": "coordinator@rav.club"
+    }
+  ],
+  "founders": [
+    {
+      "id": 2,
+      "name": "Aadil Khatri",
+      "role": "Co-Founder",
+      "department": "Leadership",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "bio": "Pioneering robotics innovation since 2022",
+      "linkedin": "#",
+      "github": "#"
+    },
+    {
+      "id": 3,
+      "name": "Giriraj Shah",
+      "role": "Co-Founder",
+      "department": "Leadership",
+      "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "bio": "Building the future of autonomous systems",
+      "linkedin": "#",
+      "github": "#"
+    }
+  ],
+  "coreTeam": [
+    {
+      "id": 4,
+      "name": "Technical Head",
+      "role": "Technical Lead",
+      "department": "Technical",
+      "photo": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef",
+      "bio": "Leading technical development and innovation",
+      "skills": ["Embedded Systems", "AI/ML", "PCB Design"]
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Lead",
+      "role": "Mechanical Head",
+      "department": "Mechanical",
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+      "bio": "Designing robust and efficient robot chassis",
+      "skills": ["CAD Design", "Manufacturing", "Prototyping"]
+    },
+    {
+      "id": 6,
+      "name": "Electronics Lead",
+      "role": "Electronics Head",
+      "department": "Electronics",
+      "photo": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
+      "bio": "Creating custom PCBs and control systems",
+      "skills": ["PCB Design", "Microcontrollers", "Power Systems"]
+    },
+    {
+      "id": 7,
+      "name": "Programming Lead",
+      "role": "Programming Head",
+      "department": "Programming",
+      "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6",
+      "bio": "Developing intelligent algorithms and automation",
+      "skills": ["Python", "C++", "ROS", "Computer Vision"]
+    }
+  ]
+}

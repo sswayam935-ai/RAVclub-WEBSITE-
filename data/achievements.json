@@ -1,0 +1,78 @@
+{
+  "pageTitle": "Achievements",
+  "pageDescription": "Our journey of excellence in robotics competitions",
+  "achievements": [
+    {
+      "id": 1,
+      "title": "IIT Bombay Technorion 2025",
+      "event": "Meshmerise Competition",
+      "category": "Autonomous Robot",
+      "position": "🥇 1st Place",
+      "description": "Qualified for International Finals in December 2025. Outstanding performance in autonomous navigation and task completion.",
+      "date": "October 3-5, 2025",
+      "icon": "Trophy",
+      "year": "2025"
+    },
+    {
+      "id": 2,
+      "title": "IIT Bombay Technorion 2025",
+      "event": "Meshmerise Competition",
+      "category": "Autonomous Robot",
+      "position": "5th Position",
+      "description": "Second team also qualified for International Finals. Demonstrated consistent excellence across multiple teams.",
+      "date": "October 3-5, 2025",
+      "icon": "Award",
+      "year": "2025"
+    },
+    {
+      "id": 3,
+      "title": "IIT Bombay Technorion 2025",
+      "event": "Cozmoclench Competition",
+      "category": "Manual Robot - Wireless",
+      "position": "Top Performer",
+      "description": "Best performing team in wireless category. Exceptional control and strategy execution.",
+      "date": "October 3-5, 2025",
+      "icon": "Zap",
+      "year": "2025"
+    },
+    {
+      "id": 4,
+      "title": "COEP Mindspark 2025",
+      "event": "Search and Destroy",
+      "category": "Autonomous Bot",
+      "position": "Top 4 Finalist",
+      "description": "Advanced autonomous targeting and navigation algorithms showcased.",
+      "date": "October 3-5, 2025",
+      "icon": "Target",
+      "year": "2025"
+    },
+    {
+      "id": 5,
+      "title": "COEP Mindspark 2025",
+      "event": "RoboRoyal",
+      "category": "Pick and Place",
+      "position": "Honorable Mention",
+      "description": "Precision manipulation and automation excellence recognized.",
+      "date": "October 3-5, 2025",
+      "icon": "Boxes",
+      "year": "2025"
+    },
+    {
+      "id": 6,
+      "title": "FTC Regional Championship",
+      "event": "Mumbai Regional",
+      "category": "FIRST Tech Challenge",
+      "position": "Outstanding Performance",
+      "description": "Hosted by Nita Mukesh Ambani Junior School. Exceptional teamwork and technical prowess.",
+      "date": "January 2026",
+      "icon": "Rocket",
+      "year": "2026"
+    }
+  ],
+  "highlights": [
+    "All robots designed, built, and programmed in-house",
+    "Custom PCB and chassis design capabilities",
+    "International Finals qualification",
+    "Multiple competition victories"
+  ]
+}
