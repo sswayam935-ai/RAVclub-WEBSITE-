@@ -39,15 +39,8 @@ export function ProjectCard({ project, className }: ProjectCardProps) {
             </div>
 
             <div>
-              <div className="flex items-center gap-2 mb-2">
-                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-periwinkle-600 to-amethyst-smoke-600 flex items-center justify-center">
-                  <span className="text-xl">🏆</span>
-                </div>
-                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-amethyst-smoke-600 to-dusty-lavender-600 flex items-center justify-center -ml-4">
-                  <span className="text-xl">🤖</span>
-                </div>
-              </div>
-
+              {/* REMOVED: Trophy and Robot emoji icons */}
+              
               <div className="flex flex-wrap gap-1.5 mt-3">
                 {project.techStack.slice(0, 3).map((tech: string, idx: number) => (
                   <span

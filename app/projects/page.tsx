@@ -32,14 +32,6 @@ export default function ProjectsPage() {
           <ProjectCard key={project.id} project={project} />
         ))}
       </div>
-
-      {/* Content Management Note */}
-      <div className="max-w-2xl mx-auto text-center p-6 bg-stone-brown-800 border border-periwinkle-700/30 rounded-lg">
-        <p className="text-stone-brown-300">
-          💡 <strong className="text-periwinkle-300">Content Management:</strong> Add or remove projects by editing{" "}
-          <code className="text-periwinkle-400 bg-stone-brown-900 px-2 py-1 rounded">data/projects.json</code>
-        </p>
-      </div>
     </div>
   );
 }
