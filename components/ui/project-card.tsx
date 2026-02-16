@@ -39,8 +39,6 @@ export function ProjectCard({ project, className }: ProjectCardProps) {
             </div>
 
             <div>
-              {/* REMOVED: Trophy and Robot emoji icons */}
-              
               <div className="flex flex-wrap gap-1.5 mt-3">
                 {project.techStack.slice(0, 3).map((tech: string, idx: number) => (
                   <span
